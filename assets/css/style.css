@@ -1,0 +1,211 @@
+.mt-70 {
+  margin-top: 70px;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.mt-25 {
+  margin-top: 25px;
+}
+
+.mb-25 {
+  margin-bottom: 25px;
+}
+
+.mtb-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pzero {
+  padding: 0;
+}
+
+.mzero {
+  margin: 0;
+}
+
+.tamtotal {
+  width: 100%;
+}
+
+.container-btn {
+  width: 100%;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn-login {
+  color: #fff !important;
+  background-color: #347B71 !important;
+  border-color: #347B71 !important;
+  padding: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  -webkit-appearance: button;
+  box-sizing: border-box;
+}
+
+.btn-facebook {
+  color: #fff !important;
+  background-color: #3B5998 !important;
+  border-color: #3B5998 !important;
+  font-size: 12px;
+  padding: 12px;
+  -webkit-appearance: button;
+  box-sizing: border-box;
+}
+
+.btn-google {
+  color: #fff !important;
+  background-color:#E2451C !important;
+  border-color: #E2451C !important;
+  font-size: 12px;
+  padding: 12px;
+  -webkit-appearance: button;
+  box-sizing: border-box;
+}
+
+.btn-cconta {
+  color: #56201B !important;
+  background-color: #FCE2A9 !important;
+  border-color: #FCE2A9 !important;
+  font-size: 12px;
+  padding: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  -webkit-appearance: button;
+  box-sizing: border-box;
+}
+
+.termos {
+  color: #D4D4D4;
+  text-decoration: underline;
+  text-decoration-color: #F7D895;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.menu {
+  width: 100%;
+  text-align: center;
+  border: 0;
+  padding: 44px;
+  font-size: 48px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.menu:focus {
+  outline: 0px;
+}
+
+.crianca {
+  background-color: #fff;
+  color: #000000DE;
+}
+
+.assistente {
+  background-color: #EA9EBA;
+  color: #000000DE;
+}
+
+.familia {
+  background-color: #450C0C;
+  color: #FFFFFFDE;
+}
+
+.dispositivos {
+  background-color: #347B71;
+  color: #FFFFFFDE;
+}
+
+.conteudo-assistente{
+  font-size: 38px;
+  color: #937777;
+  text-align: center;
+  font-family: 'Rosario', sans-serif;
+}
+
+.conteudo-familia{
+  font-size: 38px;
+  color: #450C0C80;
+  text-align: center;
+  font-family: 'Rosario', sans-serif;
+}
+
+a {
+  color: #450C0C80;
+}
+
+.conteudo-dispositivos{
+  font-size: 38px;
+  color: #347B7199;
+  text-align: center;
+  font-family: 'Rosario', sans-serif;
+}
+
+hr {
+  border-top: 2px solid #D0C2C2 !important
+}
+
+.left {
+  text-align: left !important;
+}
+
+.itopo {
+  margin-right: 45px;
+  text-align: left;
+  color: #FFFFFFDE !important ;
+}
+
+.cadastro {
+  color: #D0C2C2;
+  font-size: 38px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+.tipo-cadastro{
+  color: #937777 !important;
+  font-size: 38px;
+  text-align: center !important;
+  font-family: 'Rosario', sans-serif;
+}
+
+.btn-cadastrar {
+  color: #fff !important;
+  background-color: #347B71 !important;
+  border-color: #347B71 !important;
+  padding: 12px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.form-style{
+  display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #450C0C40;
+    background-clip: padding-box;
+    border: 1px solid #450C0C40;
+}
+
+.form-label {
+  color: #937777 !important;
+  font-size: 18px;
+  font-family: 'Rosario', sans-serif;
+}
+
+.form-group {
+  text-align: left;
+}
